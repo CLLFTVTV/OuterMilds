@@ -71,6 +71,10 @@ This project uses JOGL, which is not part of the standard Java library.
    java -cp ".:jogl-all.jar:gluegen-rt.jar" V2
    ```
    
+## Render
+
+![First GL_Triangle Render](/GL_Triangle.png)
+
 ## Next Steps
 
 With the core 2D pipeline in place, the next stage is to move into 3D:
